@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bem-vindos ao meu perfil! ✌
 <div>
   <a href="https://github.com/joaoffandre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoffandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
